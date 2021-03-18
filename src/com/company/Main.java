@@ -9,4 +9,7 @@ public class Main {
     public void printOk(){
         System.out.println("Ok");
     }
+    public void count(){
+        System.out.println("Counting...");
+    }
 }

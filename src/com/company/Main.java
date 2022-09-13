@@ -9,4 +9,8 @@ public class Main {
     public void printOk(){
         System.out.println("Ok");
     }
+
+    public void greeting(){
+        System.out.println("Hi");
+    }
 }
